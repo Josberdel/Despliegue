@@ -1,4 +1,5 @@
 <?php
+// insertar elemento en la BBDD cambia el servername username y passsword a los datos de tu mysql
 $servername = "localhost";
 $username = "root";
 $password = "";

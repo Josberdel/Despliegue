@@ -1,4 +1,5 @@
 <?php
+//modificacion de objeto cambia el servername username y passsword a los datos de tu mysql
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -18,5 +19,6 @@ if ($conn->query($sql) === TRUE) {
 } else {
   echo "Error updating record: " . $conn->error;
 }
+echo "has modificado el producto con id".$id. "su campo".$campo. "a".$valor;
 $conn->close();
 ?>
