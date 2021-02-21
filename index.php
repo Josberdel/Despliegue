@@ -9,12 +9,12 @@ http://www.w3.org/TR/html4/loose.dtd">
 <title>Formulario web</title>
 </head>
 <body>
-    <a href='segun metodo insertar.php'>Añadir registro</a>;
+    <a href='CrearBBDDfor.php'>Crear BBDD</a>;
+    <a href='metodoinsertarfor.php'>Añadir registro</a>;
     <a href='segun metodo select.php'>Listar</a>;
-    <a href='segun metodo borrar campo.php'>Borrar</a>;
-    <a href='segun metodo select con order.php'>Buscar</a>;
-    <a href='segun metodo update.php'>Modificar</a>;
-    <a href='segun metodo borrar base de datos.php'>Borrar todo</a>;
+    <a href='borrarfor.php'>Borrar</a>;    
+    <a href='actualizarfor.php'>Modificar</a>;
+    <a href='segun_metodo_borrar_base_de_datos.php'>Borrar todo</a>;
 
 <br />
 
