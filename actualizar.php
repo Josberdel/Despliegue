@@ -1,8 +1,8 @@
 <?php
 //modificacion de objeto cambia el servername username y passsword a los datos de tu mysql
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = 51.124.40.229;
+$username = "javier";
+$password = "eepmadrid";
 $dbname = $_POST['BBDD'];
 $id= $_POST['id'];
 $campo = $_POST['campo'];

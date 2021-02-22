@@ -1,8 +1,8 @@
 <?php
 // insertar elemento en la BBDD cambia el servername username y passsword a los datos de tu mysql
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = 51.124.40.229;
+$username = "javier";
+$password = "eepmadrid";
 $dbname = $_POST['BBDD'];
 $nombre=$_POST['nombre'];
 $precio=$_POST['precio'];

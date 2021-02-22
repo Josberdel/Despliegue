@@ -1,8 +1,8 @@
 <?php
 //Borrar BBDD  cambia el servername username y passsword a los datos de tu mysql
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = 51.124.40.229;
+$username = "javier";
+$password = "eepmadrid";
 $dbname = "mydb";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
